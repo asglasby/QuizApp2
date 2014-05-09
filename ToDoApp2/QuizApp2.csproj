@@ -65,10 +65,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="class.js" />
     <Content Include="index.html" />
     <Content Include="main.js" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
+    <Content Include="_main2.js" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
